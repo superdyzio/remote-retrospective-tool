@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 10% 65% 25%;
+    grid-template-rows: auto;
+    grid-template-areas: 'palette diagram properties';
+}
+
+#palette {
+    grid-area: palette;
+    background-color: lightgray;
+}
+
+#diagram {
+    grid-area: diagram;
+}
+
+#properties {
+    grid-area: properties;
+    background-color: lightgray;
+    padding: 15px;
+}

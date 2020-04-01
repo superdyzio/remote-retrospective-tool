@@ -1,0 +1,26 @@
+DONE:
+
+
+IN PROGRESS:
+
+
+TODO:
+1. empty diagram and palette with one node template
+2. one model across multiple instances
+3. add Weather Graph nodes
+4. nodes with names
+5. add Retro axes
+6. nodes with text with ellipsis
+7. seeing full text on the right side
+8. grouping mechanism
+9. voting mechanism
+
+
+DROPPED:
+
+
+ISSUES:
+
+
+BACKLOG:
+1. store name at the beginning and assign color automatically
